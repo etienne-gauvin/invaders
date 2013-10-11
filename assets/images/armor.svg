@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="armor.svg"
+   inkscape:export-filename="/home/etn/.dev/love2d/invaders/assets/images/basic-enemy-ship.png"
+   inkscape:export-xdpi="97.169998"
+   inkscape:export-ydpi="97.169998">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3772">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop3774" />
+      <stop
+         id="stop3780"
+         offset="0.89041096"
+         style="stop-color:#ffffff;stop-opacity:0.33757961;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.69426751;"
+         offset="1"
+         id="stop3776" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4893"
+       effect="spiro" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3772"
+       id="radialGradient3778"
+       cx="27.5"
+       cy="12.5"
+       fx="27.5"
+       fy="12.5"
+       r="7.96875"
+       gradientTransform="matrix(1,0,0,2.1333333,0,-14.166667)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="17.642224"
+     inkscape:cy="22.494931"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2996"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Fond"
+     transform="translate(0,10)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3781"
+       width="40.645161"
+       height="40.645161"
+       x="-0.14516068"
+       y="-10.5"
+       ry="0.67741942" />
+  </g>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1012.3622)"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3778);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3770"
+       sodipodi:cx="27.5"
+       sodipodi:cy="12.5"
+       sodipodi:rx="7.96875"
+       sodipodi:ry="17"
+       d="m 35.46875,12.5 a 7.96875,17 0 1 1 -15.9375,0 7.96875,17 0 1 1 15.9375,0 z"
+       transform="matrix(2.5098039,0,0,1.1764706,-49.019607,1017.6563)"
+       inkscape:export-filename="/home/etn/.dev/love2d/invaders/assets/images/armor.png"
+       inkscape:export-xdpi="148.24001"
+       inkscape:export-ydpi="148.24001" />
+  </g>
+</svg>
